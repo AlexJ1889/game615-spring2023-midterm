@@ -1,5 +1,9 @@
 # game615-spring2023-midterm
 
+How to Play; 
+
+Collect the cowboy hats! 
+
 https://alexj1889.github.io/game615-spring2023-midterm/midterm/play/
  
 Asset Attribution: 
