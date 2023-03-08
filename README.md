@@ -1,6 +1,6 @@
 # game615-spring2023-midterm
 
-[Play Game] https://alexj1889.github.io/game615-spring2023-midterm/midterm/play/
+https://alexj1889.github.io/game615-spring2023-midterm/midterm/play/
  
 Asset Attribution: 
 
