@@ -1,6 +1,8 @@
 # game615-spring2023-midterm
 
-How to Play; 
+How to Play:
+
+Use W,A,S,D to move around. 
 
 Collect the cowboy hats! 
 
